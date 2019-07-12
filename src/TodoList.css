@@ -14,3 +14,9 @@
     color: white;
     border: 2px solid blueviolet;
 }
+
+.todoListMain .header button:hover {
+    background-color: coral;
+    border: 4px solid darkorchid;
+    cursor: pointer;
+}
